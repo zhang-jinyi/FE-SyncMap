@@ -45,7 +45,7 @@ FE-SyncMap introduces local information signals based on **surprisal** and **unc
 - 🌐 **Real-world network data**
   - Dolphin social network and Zachary’s Karate Club in `data/real/`
 - 📊 **Experimental results**
-  - Benchmark results, dynamic-switching curves, CSV files, and visualizations in `results/`
+  - Benchmark results, dynamic-switching curves, CSV files, and visualizations in `results/`   https://drive.google.com/file/d/1djrMina0RbbW9YLagQKYIj4PYTk_hdRE/view?usp=drive_link
 
 ## 🗂️ Repository structure
 
